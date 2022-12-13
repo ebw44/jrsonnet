@@ -84,6 +84,7 @@
             cargo-edit
             cargo-asm
             cargo-outdated
+            cargo-watch
             lld
             hyperfine
             valgrind
